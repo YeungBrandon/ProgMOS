@@ -1,0 +1,5 @@
+1. Li, M., He, Z., Shi, L., Lin, M., Li, M., Cheng, Y., Liu, H., Xue, L., Said, K. S., Yusuf, M., Hadiza Shehu Galadanci, & Nie, L. (2025). Intelligent Detection for Polycystic Ovary Syndrome (PCOS): Taxonomy, datasets and detection tools. Computational and Structural Biotechnology Journal. https://doi.org/10.1016/j.csbj.2025.04.011
+
+2. Elmannai, H., El-Rashidy, N., Mashal, I., Alohali, M. A., Farag, S., El-Sappagh, S., & Saleh, H. (2023). Polycystic Ovary Syndrome Detection Machine Learning Model Based on Optimized Feature Selection and Explainable Artificial Intelligence. Diagnostics (Basel, Switzerland), 13(8), 1506. https://doi.org/10.3390/diagnostics13081506
+
+3. https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos/data?select=PCOS_data_without_infertility.xlsx
