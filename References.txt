@@ -3,3 +3,7 @@
 2. Elmannai, H., El-Rashidy, N., Mashal, I., Alohali, M. A., Farag, S., El-Sappagh, S., & Saleh, H. (2023). Polycystic Ovary Syndrome Detection Machine Learning Model Based on Optimized Feature Selection and Explainable Artificial Intelligence. Diagnostics (Basel, Switzerland), 13(8), 1506. https://doi.org/10.3390/diagnostics13081506
 
 3. https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos/data?select=PCOS_data_without_infertility.xlsx
+
+4. Mohanty, S., Christopher B, P. A bibliometric analysis of the use of the Gamification Octalysis Framework in training: evidence from Web of Science. Humanit Soc Sci Commun 10, 836 (2023). https://doi.org/10.1057/s41599-023-02243-3
+
+5. https://www.sciencedirect.com/science/article/abs/pii/S0360131523001768
