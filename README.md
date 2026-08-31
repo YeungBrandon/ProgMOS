@@ -1,6 +1,7 @@
 # ProgMOS
 ## Workflow:
 <img width="1304" height="1198" alt="ProgMOS_Workflow" src="https://github.com/user-attachments/assets/2842d47b-0748-4e97-9859-f862e0b11382" />
+
 ## Gamification Framework:
 <img width="1409" height="1108" alt="HEPC - Frame 3" src="https://github.com/user-attachments/assets/d17c29a1-fac5-4ea7-9904-f1c33168928e" />
 <img width="1527" height="1022" alt="HEPC - Frame 4" src="https://github.com/user-attachments/assets/a7068cb8-0789-444f-b6df-55a027e67ebb" />
