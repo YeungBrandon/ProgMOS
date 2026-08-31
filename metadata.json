@@ -1,6 +1,0 @@
-{
-  "name": "ProgMOS",
-  "description": "A local, HIPAA-compliant mathematical prognosis and wellness tool for Polyendocrine Metabolic Ovarian Syndrome (PMOS) with gamified health tracking.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
