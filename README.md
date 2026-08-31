@@ -3,7 +3,6 @@
 ## App Screens:
 <img width="1080" height="7080" alt="Screenshot_20260831_215452_ProgMOSis" src="https://github.com/user-attachments/assets/b8959a0a-ef79-4f5d-b628-ebb05dd6e21d" />
 <img width="1080" height="7681" alt="Screenshot_20260831_215514_ProgMOSis" src="https://github.com/user-attachments/assets/c80eed1a-b558-4096-9045-1dd9d4ecd2ee" />
-<img width="1080" height="4247" alt="Screenshot_20260831_215531_ProgMOSis" src="https://github.com/user-attachments/assets/13f49f10-f3df-44ec-bfe4-6dbf3f0d4d62" />
 
 ## Workflow:
 <img width="1304" height="1198" alt="ProgMOS_Workflow" src="https://github.com/user-attachments/assets/2842d47b-0748-4e97-9859-f862e0b11382" />
