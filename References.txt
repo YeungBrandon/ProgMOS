@@ -6,4 +6,4 @@
 
 4. Mohanty, S., Christopher B, P. A bibliometric analysis of the use of the Gamification Octalysis Framework in training: evidence from Web of Science. Humanit Soc Sci Commun 10, 836 (2023). https://doi.org/10.1057/s41599-023-02243-3
 
-5. https://www.sciencedirect.com/science/article/abs/pii/S0360131523001768
+5. Kasneci, E., Sessler, K., Küchemann, S., Bannert, M., Dementieva, D., Fischer, F., Gasser, U., Groh, G., Günnemann, S., Hüllermeier, E., Krusche, S., Kutyniok, G., Michaeli, T., Nerdel, C., Pfeffer, J., Poquet, O., Sailer, M., Schmidt, A., Seidel, T., … Kasneci, G. (2023). ChatGPT for good? On the advantages and challenges of Large Language   Models for education. Computers & Education, 199, Article 104782. https://doi.org/10.1016/j.compedu.2023.104782
