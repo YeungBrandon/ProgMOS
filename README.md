@@ -1,2 +1,10 @@
+# ProgMOS
+## Important Disclaimer:
 The information provided on this site is for general informational and educational purposes only and is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this app. The use of this website or the submission of any information through our contact forms does not establish a physician-patient relationship
+## Workflow:
 <img width="1304" height="1198" alt="ProgMOS_Workflow" src="https://github.com/user-attachments/assets/2842d47b-0748-4e97-9859-f862e0b11382" />
+
+## Installation:
+1. Download ProgMOS_Final.apk
+2. Run the installation on an Android Device
+3. Enjoy
